@@ -1,7 +1,7 @@
 💍 Gerador Inteligente de Convites de Casamento
 
 Durante o período do meu casamento, desenvolvi um Gerador Automatizado de Convites Personalizados, unindo tecnologia, automação e experiência do usuário para organizar e personalizar a lista de convidados de forma prática e escalável.
-
+![Dashboard.png](Dashboard.png)
 
 
 🚀 Sobre o Projeto
